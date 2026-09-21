@@ -1,0 +1,46 @@
+[
+  {
+    "name": "aFamily",
+    "url": "https://afamily.vn/trang-chu.rss"
+  },
+  {
+    "name": "CafeF",
+    "url": "https://cafef.vn/home.rss"
+  },
+  {
+    "name": "ĐSPL Xã hội",
+    "url": "https://doisongphapluat.nguoiduatin.vn/rss/xa-hoi.rss"
+  },
+  {
+    "name": "ĐSPL Giải trí",
+    "url": "https://doisongphapluat.nguoiduatin.vn/rss/giai-tri.rss"
+  },
+  {
+    "name": "Kênh14",
+    "url": "https://kenh14.vn/rss/home.rss"
+  },
+  {
+    "name": "Soha",
+    "url": "https://soha.vn/rss/home.rss"
+  },
+  {
+    "name": "VTV",
+    "url": "https://vtv.vn/rss/home.rss"
+  },
+  {
+    "name": "VTC News",
+    "url": "https://vtcnews.vn/rss/feed.rss"
+  },
+  {
+    "name": "Tiền Phong",
+    "url": "https://tienphong.vn/rss/home.rss"
+  },
+  {
+    "name": "VOV",
+    "url": "https://vov.vn/rss/trang-chu.rss"
+  },
+  {
+    "name": "GenK",
+    "url": "https://genk.vn/rss/home.rss"
+  }
+]
